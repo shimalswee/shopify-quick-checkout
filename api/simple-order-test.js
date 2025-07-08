@@ -14,7 +14,7 @@ export default async function handler(req, res) {
         pincode: '400001'
       },
       productData: {
-        variantId: 'gid://shopify/ProductVariant/48670466490679', // You'll need a real variant ID
+        variantId: 'gid://shopify/ProductVariant/45648429678847', // You'll need a real variant ID
         price: 100,
         title: 'Test Product'
       },

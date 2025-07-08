@@ -1,0 +1,16 @@
+{
+  "name": "shopify-quick-checkout-api",
+  "version": "1.0.0",
+  "description": "Quick Checkout API for Shopify with Razorpay",
+  "main": "api/shopify-order.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
